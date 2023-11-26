@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Poultry/static/css/main.f96f07a4.css",
+    "main.js": "/Poultry/static/js/main.dd891fba.js",
+    "index.html": "/Poultry/index.html",
+    "main.f96f07a4.css.map": "/Poultry/static/css/main.f96f07a4.css.map",
+    "main.dd891fba.js.map": "/Poultry/static/js/main.dd891fba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.dd891fba.js"
+  ]
+}
